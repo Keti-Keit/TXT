@@ -1,1 +1,11 @@
 
+Summary
+  Project
+  Version
+  Severity
+  Priority
+  Status
+  Author
+  Assigned_To
+  Description
+  Attachment
