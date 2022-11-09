@@ -1,0 +1,5 @@
+ First name: Keit
+ Last name: Pogranichnaia
+ Age: 34
+ Pets: 2
+ Salary: 2000$
